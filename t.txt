@@ -1,0 +1,8 @@
+int x = 3 ;
+int y  = 4 ;
+float z = 5.7 ;
+char i = 'h' ;
+int XS = 3 ;
+int xs  = 4 ;
+float z = 5.2 ;
+char p = 'f' ;
